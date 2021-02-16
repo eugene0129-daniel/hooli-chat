@@ -1,0 +1,3 @@
+
+tutorial
+https://miningbusinessdata.com/understanding-dialogflow-service-account-roles-and-their-use-cases/
